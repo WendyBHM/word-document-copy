@@ -1,7 +1,18 @@
+body{
+    font-family: "calibri";
+    font-size: large;
+}
 h1{
     color:#2f5496 ; 
     text-align: center;
+    
 }
 h2{
     color:#2f5496 ;
 }
+table,th,td{
+    width: 75%;
+    border: 3px solid rgb(38, 99, 212);
+    border-collapse: collapse;
+}
+    
