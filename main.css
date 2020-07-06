@@ -15,4 +15,7 @@ table,th,td{
     border: 3px solid rgb(38, 99, 212);
     border-collapse: collapse;
 }
+nav{
+    text-align: center;
+}
     
